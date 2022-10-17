@@ -5,3 +5,7 @@ input{
 button{
     width: px;
 }
+
+div{
+    background-color: gray;
+}
